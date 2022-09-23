@@ -13,7 +13,7 @@ import turtle
 t=turtle.Turtle()
 
 #asking user to type name
-name = input("Type the name Nawaf")
+name = input("Type name NAWAF")
 
 #if loop that executes when the user types my name
 if name == "NAWAF":
