@@ -79,7 +79,7 @@ t.right(108)
 t.forward(52)
 t.penup()
 
-#drawing letter F
+#drawing letter F 
 t.setpos(120,50) 
 t.pendown()
 t.pensize(15)
